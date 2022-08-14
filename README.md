@@ -7,3 +7,6 @@ Haijia Chen
 
 # Content
 The requirements file, jupyter notebooks, and the data utilized for the analysis are all stored in the repository.
+
+# Python Version
+Python version 3.9.10 was used to create the notebooks.
